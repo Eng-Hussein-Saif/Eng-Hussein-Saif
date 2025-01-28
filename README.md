@@ -2,7 +2,9 @@
 
 ###
 
-<h2 align="left">Software Engneer</h2>
+<h2 align="left">👨‍💻 Software Engineer 
+  | Web & Mobile App Developer 
+  🔹 Web Development: 📱 Mobile App Development ✨ Passionate about problem-solving and innovation in the</h2>
 
 ###
 
